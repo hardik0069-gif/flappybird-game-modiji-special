@@ -15,15 +15,15 @@ A Flappy Bird-inspired game developed using **Python** and **Pygame**. This proj
 Add your screenshots here.
 
 ### Welcome Screen
-![Welcome Screen]("<img width="1626" height="947" alt="welcome" src="https://github.com/user-attachments/assets/1373a66e-e47d-4521-a0ef-d2a9a3682ca7" />
+("<img width="1626" height="947" alt="welcome" src="https://github.com/user-attachments/assets/1373a66e-e47d-4521-a0ef-d2a9a3682ca7" />
 ")
 
 ### Gameplay
-![Gameplay]("<img width="1627" height="947" alt="gameplay" src="https://github.com/user-attachments/assets/6dbef554-fa2a-4599-9c7c-d3083410ec40" />
+]("<img width="1627" height="947" alt="gameplay" src="https://github.com/user-attachments/assets/6dbef554-fa2a-4599-9c7c-d3083410ec40" />
 ")
 
 ### Game Over
-![Game Over]("<img width="1632" height="941" alt="gameover" src="https://github.com/user-attachments/assets/f40d450d-4ecf-428a-b917-5c7fa63e08b5" />
+("<img width="1632" height="941" alt="gameover" src="https://github.com/user-attachments/assets/f40d450d-4ecf-428a-b917-5c7fa63e08b5" />
 ")
 
 ---
