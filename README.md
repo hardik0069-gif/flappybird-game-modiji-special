@@ -15,13 +15,13 @@ A Flappy Bird-inspired game developed using **Python** and **Pygame**. This proj
 Add your screenshots here.
 
 ### Welcome Screen
-![Welcome Screen]("C:\Users\ACER\OneDrive\Desktop\python2\welcome.png")
+![Welcome Screen]("python2\welcome.png")
 
 ### Gameplay
-![Gameplay]("C:\Users\ACER\OneDrive\Desktop\python2\gameplay.png")
+![Gameplay]("python2\gameplay.png")
 
 ### Game Over
-![Game Over]("C:\Users\ACER\OneDrive\Desktop\python2\gameover.png")
+![Game Over]("python2\gameover.png")
 
 ---
 
