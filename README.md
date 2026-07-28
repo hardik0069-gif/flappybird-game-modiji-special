@@ -6,7 +6,7 @@ A Flappy Bird-inspired game developed using **Python** and **Pygame**. This proj
 
 ## 🎮 Demo
 
-> 📹 Gameplay video: 
+> 📹 Gameplay video: https://www.linkedin.com/posts/hardik-kataria-59bb83379_python-pygame-gamedev-ugcPost-7487803641974714368-6X8z/?utm_source=share&utm_medium=member_android&rcm=ACoAAF2cs4cB0icgvSMfUNlWoddWd0b3eV04a2w
 
 ---
 
